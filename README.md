@@ -1,4 +1,4 @@
-# Nhận diện kiến ba khoang
+# Vietnamese harmful speech detection and Youtube comments classfication
 ## Set up
 ```bash
 git clone -b master --single-branch https://github.com/22521600-Lcukichi/IE212-project.git
